@@ -1,0 +1,7 @@
+project_id = "attedly"
+organization_id = "att-tenant"
+api = { port = 54321 }
+
+[auth]
+site_url = "https://agentic-3a71157a.vercel.app"
+additional_redirect_urls = ["http://localhost:3000"]
